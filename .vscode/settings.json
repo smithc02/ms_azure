@@ -1,3 +1,7 @@
 {
-    "appService.defaultWebAppToDeploy": "None"
+    "appService.defaultWebAppToDeploy": "/subscriptions/fb8e6bdd-9bd8-403e-a122-f0cb92c36510/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/deplytowebapp",
+    "appService.zipIgnorePattern": [
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": ""
 }
